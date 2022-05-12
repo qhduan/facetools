@@ -1,0 +1,250 @@
+relu0
+PRelu
+['bn0', 'relu0_gamma']
+['relu0']
+
+stage1_unit1_relu1
+PRelu
+['stage1_unit1_bn2', 'stage1_unit1_relu1_gamma']
+['stage1_unit1_relu1']
+
+stage1_unit2_relu1
+PRelu
+['stage1_unit2_bn2', 'stage1_unit2_relu1_gamma']
+['stage1_unit2_relu1']
+
+stage1_unit3_relu1
+PRelu
+['stage1_unit3_bn2', 'stage1_unit3_relu1_gamma']
+['stage1_unit3_relu1']
+
+stage2_unit1_relu1
+PRelu
+['stage2_unit1_bn2', 'stage2_unit1_relu1_gamma']
+['stage2_unit1_relu1']
+
+stage2_unit2_relu1
+PRelu
+['stage2_unit2_bn2', 'stage2_unit2_relu1_gamma']
+['stage2_unit2_relu1']
+
+stage2_unit3_relu1
+PRelu
+['stage2_unit3_bn2', 'stage2_unit3_relu1_gamma']
+['stage2_unit3_relu1']
+
+stage2_unit4_relu1
+PRelu
+['stage2_unit4_bn2', 'stage2_unit4_relu1_gamma']
+['stage2_unit4_relu1']
+
+stage2_unit5_relu1
+PRelu
+['stage2_unit5_bn2', 'stage2_unit5_relu1_gamma']
+['stage2_unit5_relu1']
+
+stage2_unit6_relu1
+PRelu
+['stage2_unit6_bn2', 'stage2_unit6_relu1_gamma']
+['stage2_unit6_relu1']
+
+stage2_unit7_relu1
+PRelu
+['stage2_unit7_bn2', 'stage2_unit7_relu1_gamma']
+['stage2_unit7_relu1']
+
+stage2_unit8_relu1
+PRelu
+['stage2_unit8_bn2', 'stage2_unit8_relu1_gamma']
+['stage2_unit8_relu1']
+
+stage2_unit9_relu1
+PRelu
+['stage2_unit9_bn2', 'stage2_unit9_relu1_gamma']
+['stage2_unit9_relu1']
+
+stage2_unit10_relu1
+PRelu
+['stage2_unit10_bn2', 'stage2_unit10_relu1_gamma']
+['stage2_unit10_relu1']
+
+stage2_unit11_relu1
+PRelu
+['stage2_unit11_bn2', 'stage2_unit11_relu1_gamma']
+['stage2_unit11_relu1']
+
+stage2_unit12_relu1
+PRelu
+['stage2_unit12_bn2', 'stage2_unit12_relu1_gamma']
+['stage2_unit12_relu1']
+
+stage2_unit13_relu1
+PRelu
+['stage2_unit13_bn2', 'stage2_unit13_relu1_gamma']
+['stage2_unit13_relu1']
+
+stage3_unit1_relu1
+PRelu
+['stage3_unit1_bn2', 'stage3_unit1_relu1_gamma']
+['stage3_unit1_relu1']
+
+stage3_unit2_relu1
+PRelu
+['stage3_unit2_bn2', 'stage3_unit2_relu1_gamma']
+['stage3_unit2_relu1']
+
+stage3_unit3_relu1
+PRelu
+['stage3_unit3_bn2', 'stage3_unit3_relu1_gamma']
+['stage3_unit3_relu1']
+
+stage3_unit4_relu1
+PRelu
+['stage3_unit4_bn2', 'stage3_unit4_relu1_gamma']
+['stage3_unit4_relu1']
+
+stage3_unit5_relu1
+PRelu
+['stage3_unit5_bn2', 'stage3_unit5_relu1_gamma']
+['stage3_unit5_relu1']
+
+stage3_unit6_relu1
+PRelu
+['stage3_unit6_bn2', 'stage3_unit6_relu1_gamma']
+['stage3_unit6_relu1']
+
+stage3_unit7_relu1
+PRelu
+['stage3_unit7_bn2', 'stage3_unit7_relu1_gamma']
+['stage3_unit7_relu1']
+
+stage3_unit8_relu1
+PRelu
+['stage3_unit8_bn2', 'stage3_unit8_relu1_gamma']
+['stage3_unit8_relu1']
+
+stage3_unit9_relu1
+PRelu
+['stage3_unit9_bn2', 'stage3_unit9_relu1_gamma']
+['stage3_unit9_relu1']
+
+stage3_unit10_relu1
+PRelu
+['stage3_unit10_bn2', 'stage3_unit10_relu1_gamma']
+['stage3_unit10_relu1']
+
+stage3_unit11_relu1
+PRelu
+['stage3_unit11_bn2', 'stage3_unit11_relu1_gamma']
+['stage3_unit11_relu1']
+
+stage3_unit12_relu1
+PRelu
+['stage3_unit12_bn2', 'stage3_unit12_relu1_gamma']
+['stage3_unit12_relu1']
+
+stage3_unit13_relu1
+PRelu
+['stage3_unit13_bn2', 'stage3_unit13_relu1_gamma']
+['stage3_unit13_relu1']
+
+stage3_unit14_relu1
+PRelu
+['stage3_unit14_bn2', 'stage3_unit14_relu1_gamma']
+['stage3_unit14_relu1']
+
+stage3_unit15_relu1
+PRelu
+['stage3_unit15_bn2', 'stage3_unit15_relu1_gamma']
+['stage3_unit15_relu1']
+
+stage3_unit16_relu1
+PRelu
+['stage3_unit16_bn2', 'stage3_unit16_relu1_gamma']
+['stage3_unit16_relu1']
+
+stage3_unit17_relu1
+PRelu
+['stage3_unit17_bn2', 'stage3_unit17_relu1_gamma']
+['stage3_unit17_relu1']
+
+stage3_unit18_relu1
+PRelu
+['stage3_unit18_bn2', 'stage3_unit18_relu1_gamma']
+['stage3_unit18_relu1']
+
+stage3_unit19_relu1
+PRelu
+['stage3_unit19_bn2', 'stage3_unit19_relu1_gamma']
+['stage3_unit19_relu1']
+
+stage3_unit20_relu1
+PRelu
+['stage3_unit20_bn2', 'stage3_unit20_relu1_gamma']
+['stage3_unit20_relu1']
+
+stage3_unit21_relu1
+PRelu
+['stage3_unit21_bn2', 'stage3_unit21_relu1_gamma']
+['stage3_unit21_relu1']
+
+stage3_unit22_relu1
+PRelu
+['stage3_unit22_bn2', 'stage3_unit22_relu1_gamma']
+['stage3_unit22_relu1']
+
+stage3_unit23_relu1
+PRelu
+['stage3_unit23_bn2', 'stage3_unit23_relu1_gamma']
+['stage3_unit23_relu1']
+
+stage3_unit24_relu1
+PRelu
+['stage3_unit24_bn2', 'stage3_unit24_relu1_gamma']
+['stage3_unit24_relu1']
+
+stage3_unit25_relu1
+PRelu
+['stage3_unit25_bn2', 'stage3_unit25_relu1_gamma']
+['stage3_unit25_relu1']
+
+stage3_unit26_relu1
+PRelu
+['stage3_unit26_bn2', 'stage3_unit26_relu1_gamma']
+['stage3_unit26_relu1']
+
+stage3_unit27_relu1
+PRelu
+['stage3_unit27_bn2', 'stage3_unit27_relu1_gamma']
+['stage3_unit27_relu1']
+
+stage3_unit28_relu1
+PRelu
+['stage3_unit28_bn2', 'stage3_unit28_relu1_gamma']
+['stage3_unit28_relu1']
+
+stage3_unit29_relu1
+PRelu
+['stage3_unit29_bn2', 'stage3_unit29_relu1_gamma']
+['stage3_unit29_relu1']
+
+stage3_unit30_relu1
+PRelu
+['stage3_unit30_bn2', 'stage3_unit30_relu1_gamma']
+['stage3_unit30_relu1']
+
+stage4_unit1_relu1
+PRelu
+['stage4_unit1_bn2', 'stage4_unit1_relu1_gamma']
+['stage4_unit1_relu1']
+
+stage4_unit2_relu1
+PRelu
+['stage4_unit2_bn2', 'stage4_unit2_relu1_gamma']
+['stage4_unit2_relu1']
+
+stage4_unit3_relu1
+PRelu
+['stage4_unit3_bn2', 'stage4_unit3_relu1_gamma']
+['stage4_unit3_relu1']
+
